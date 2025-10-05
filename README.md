@@ -1,2 +1,2 @@
-# Coming-Soon-Capitoken
-Coming Soon Webpage
+# capitoken-site
+Capitoken Web
